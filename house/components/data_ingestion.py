@@ -5,7 +5,7 @@ from pandas import DataFrame
 from sklearn.model_selection import train_test_split
 
 from house.entity.config_entity import DataIngestionConfig
-from house.entity.artifact_entity import DataIgestionArtifact
+from house.entity.artifact_entity import DataIngestionArtifact
 from house.exception import Exception
 from house.logger import logging
 from house.data_access.house_data import house
@@ -71,7 +71,7 @@ class DataIngestion:
         except Exception as e:
             raise Exception(e, sys) from e
 
-    def initiate_data_ingestion(self) ->DataIgestionArtifact:
+    def initiate_data_ingestion(self) ->DataIngestionArtifact:
         """
         Method Name :   initiate_data_ingestion
         Description :   This method initiates the data ingestion components of training pipeline 
@@ -94,7 +94,7 @@ class DataIngestion:
                 "Exited initiate_data_ingestion method of Data_Ingestion class"
             )
 
-            data_ingestion_artifact = DataIgestionArtifact(trained_file_path=self.data_ingestion_config.training_file_path,
+            data_ingestion_artifact = DataIngestionArtifact(trained_file_path=self.data_ingestion_config.training_file_path,
             test_file_path=self.data_ingestion_config.testing_file_path)
             
             logging.info(f"Data ingestion artifact: {data_ingestion_artifact}")
