@@ -14,10 +14,12 @@
 2. config-entity.
 3. artifact-entity.
 4. components. - data_ingestion.
+pipeline.
 
 3rd step.
 1. config-entity.
 2. artifact-entity.
 3. components.  - data-validation.
+pipeline.
 
 4th step.
