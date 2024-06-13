@@ -1,0 +1,583 @@
+location,total_sqft,bath,balcony,price,bhk
+Kanakpura Road,1450.0,3.0,3.0,54.3,3
+Hennur Road,2047.0,3.0,2.0,67.55,3
+Sarjapur  Road,1314.0,2.0,2.0,70.44,3
+Electronic City Phase II,1625.0,2.0,2.0,48.75,3
+Whitefield,1215.0,2.0,2.0,39.0,2
+Electronic City,880.0,2.0,2.0,29.0,2
+Sarjapur  Road,1770.0,3.0,2.0,180.0,3
+Electronic City,1599.0,3.0,2.0,125.0,3
+Electronic City,1140.0,2.0,2.0,33.84,2
+Marathahalli,950.0,2.0,2.0,46.7,2
+Kanakpura Road,1938.0,3.0,3.0,92.69,3
+Whitefield,1985.0,3.0,2.0,75.0,3
+Marathahalli,1125.0,2.0,3.0,55.0,2
+Whitefield,1270.0,2.0,1.0,105.0,2
+Hennur Road,1192.0,2.0,1.0,60.0,3
+Electronic City,1060.0,2.0,1.0,51.0,2
+Kanakpura Road,1366.0,2.0,1.0,83.0,2
+Electronic City,1100.0,2.0,1.0,41.0,2
+7th Phase JP Nagar,1175.0,2.0,2.0,82.5,2
+Electronic City,1213.0,2.0,1.0,59.32,2
+Yelahanka,1692.0,3.0,2.0,83.0,3
+Thanisandra,1183.0,2.0,2.0,58.56,2
+Whitefield,1130.0,2.0,1.0,42.16,2
+Whitefield,825.0,1.0,1.0,45.0,1
+Thanisandra,1056.0,2.0,2.0,65.0,2
+7th Phase JP Nagar,1250.0,3.0,2.0,65.0,3
+Haralur Road,1194.0,2.0,2.0,47.0,2
+Whitefield,1862.0,3.0,2.0,125.0,3
+Raja Rajeshwari Nagar,1530.0,3.0,2.0,64.0,3
+Haralur Road,1194.0,2.0,2.0,46.0,2
+Electronic City Phase II,630.0,1.0,1.0,40.0,1
+Electronic City Phase II,1065.0,2.0,1.0,30.76,2
+Thanisandra,1185.0,2.0,2.0,43.51,2
+Yelahanka,651.0,1.0,1.0,17.5,1
+Hennur Road,1445.0,3.0,1.0,86.56,3
+Bannerghatta Road,1550.0,3.0,2.0,96.0,3
+Hennur Road,1981.0,3.0,1.0,134.0,3
+Whitefield,1870.0,3.0,2.0,90.0,3
+7th Phase JP Nagar,1187.0,2.0,1.0,59.0,2
+Marathahalli,1350.0,2.0,2.0,60.0,2
+Kanakpura Road,1500.0,3.0,2.0,97.0,3
+Bannerghatta Road,1157.0,2.0,0.0,40.0,2
+Raja Rajeshwari Nagar,1608.0,2.0,2.0,85.0,2
+Kanakpura Road,1843.0,3.0,2.0,95.84,3
+Sarjapur  Road,1115.0,2.0,2.0,50.0,2
+Whitefield,825.0,1.0,1.0,44.9,1
+Whitefield,1345.0,2.0,2.0,57.0,3
+Uttarahalli,1125.0,2.0,1.0,48.0,2
+Electronic City,1000.0,2.0,1.0,29.7,2
+Electronic City Phase II,1220.0,3.0,1.0,35.23,3
+Electronic City,1449.0,3.0,2.0,90.0,3
+Bannerghatta Road,1660.0,3.0,3.0,80.0,3
+Whitefield,1150.0,2.0,3.0,44.0,3
+Kanakpura Road,1550.0,3.0,3.0,63.5,3
+Sarjapur  Road,1700.0,3.0,1.0,194.0,3
+Sarjapur  Road,1115.0,2.0,1.0,50.0,2
+Whitefield,1700.0,3.0,2.0,95.0,3
+Thanisandra,1098.0,2.0,1.0,68.0,2
+Sarjapur  Road,1525.0,2.0,3.0,63.0,3
+7th Phase JP Nagar,1270.0,2.0,1.0,80.0,2
+Marathahalli,1200.0,2.0,2.0,58.0,2
+Kanakpura Road,1706.0,3.0,2.0,135.0,3
+Whitefield,1405.0,2.0,2.0,84.5,2
+Electronic City Phase II,900.0,2.0,2.0,32.5,2
+Kanakpura Road,1167.0,2.0,1.0,63.0,2
+Haralur Road,1464.0,2.0,2.0,56.0,2
+Uttarahalli,1280.0,2.0,2.0,75.0,2
+Bannerghatta Road,1656.0,2.0,1.0,62.93,3
+Sarjapur  Road,984.0,2.0,1.0,44.28,2
+Electronic City Phase II,975.0,2.0,2.0,45.0,3
+Sarjapur  Road,1260.0,2.0,2.0,53.0,2
+Raja Rajeshwari Nagar,1570.0,3.0,2.0,88.0,3
+Whitefield,1697.0,3.0,2.0,115.0,3
+Thanisandra,1265.0,2.0,2.0,46.6,2
+Kanakpura Road,1450.0,3.0,3.0,60.9,3
+Sarjapur  Road,950.0,1.0,0.0,39.9,1
+Whitefield,1436.0,2.0,3.0,62.15,3
+Electronic City,2093.0,4.0,2.0,134.0,4
+Kanakpura Road,1450.0,3.0,3.0,60.91,3
+Sarjapur  Road,1200.0,2.0,1.0,93.0,2
+Hebbal,1985.0,4.0,2.0,189.0,3
+Sarjapur  Road,1787.0,3.0,2.0,116.0,3
+7th Phase JP Nagar,1675.0,2.0,2.0,135.0,3
+Hebbal,1100.0,2.0,2.0,38.0,2
+Bannerghatta Road,1200.0,2.0,0.0,125.0,4
+Haralur Road,2017.0,2.0,2.0,125.0,3
+Hennur Road,1482.0,2.0,1.0,68.9,3
+Kanakpura Road,825.0,1.0,0.0,36.29,1
+Thanisandra,777.0,1.0,0.0,38.535,1
+Yelahanka,1705.0,3.0,2.0,85.0,3
+Hebbal,1200.0,2.0,1.0,49.0,2
+Sarjapur  Road,1157.0,2.0,1.0,75.0,3
+Whitefield,1140.0,2.0,2.0,40.0,2
+Yelahanka,697.0,1.0,1.0,35.0,1
+Electronic City,910.0,2.0,2.0,42.0,2
+Bannerghatta Road,1788.0,3.0,2.0,90.0,3
+Raja Rajeshwari Nagar,1090.0,2.0,2.0,57.0,2
+Uttarahalli,1300.0,2.0,2.0,55.0,2
+Whitefield,1200.0,2.0,3.0,70.0,2
+Raja Rajeshwari Nagar,1128.0,2.0,2.0,40.0,2
+Whitefield,1100.0,2.0,1.0,37.0,2
+Yelahanka,1859.0,3.0,1.0,108.0,3
+Thanisandra,1183.0,2.0,1.0,59.74,2
+Bannerghatta Road,793.0,2.0,1.0,45.0,2
+Electronic City,1070.0,2.0,1.0,60.0,2
+Marathahalli,1780.0,4.0,3.0,175.0,4
+Electronic City,1360.0,2.0,1.0,70.5,3
+Electronic City Phase II,1219.0,2.0,1.0,61.26,2
+Kanakpura Road,1550.0,3.0,3.0,64.5,3
+Thanisandra,1098.0,2.0,1.0,74.0,2
+Thanisandra,1230.0,2.0,2.0,44.0,2
+Haralur Road,1194.0,2.0,2.0,46.0,2
+Hennur Road,1482.0,2.0,1.0,87.0,3
+Uttarahalli,661.0,1.0,1.0,36.0,1
+Electronic City Phase II,1320.0,2.0,1.0,38.12,3
+Electronic City Phase II,1056.0,2.0,1.0,39.07,2
+Whitefield,750.0,1.0,1.0,51.0,1
+Kanakpura Road,1452.0,3.0,3.0,60.98,3
+Whitefield,1173.0,2.0,1.0,78.2,2
+7th Phase JP Nagar,1800.0,3.0,2.0,130.0,3
+Electronic City Phase II,1549.0,3.0,2.0,80.0,3
+Hennur Road,1975.0,3.0,3.0,123.0,3
+Kanakpura Road,525.0,1.0,1.0,25.0,1
+Sarjapur  Road,1145.0,2.0,2.0,49.5,2
+Electronic City Phase II,1089.0,2.0,0.0,32.67,2
+Thanisandra,662.0,1.0,0.0,45.0,1
+Raja Rajeshwari Nagar,1625.0,2.0,2.0,54.0,3
+Hebbal,1175.0,2.0,0.0,54.05,2
+Yelahanka,1322.0,2.0,2.0,80.0,2
+Thanisandra,1250.0,1.0,1.0,54.0,2
+Kanakpura Road,1120.0,2.0,1.0,51.0,2
+Marathahalli,1135.0,2.0,2.0,60.0,2
+Electronic City,630.0,1.0,1.0,46.0,1
+Uttarahalli,1385.0,2.0,2.0,48.48,3
+Electronic City,1025.0,2.0,1.0,50.0,2
+Electronic City Phase II,1125.0,2.0,1.0,32.49,2
+Yelahanka,1664.0,3.0,0.0,73.95,3
+Sarjapur  Road,1929.0,4.0,1.0,103.0,3
+Thanisandra,933.0,2.0,1.0,55.0,2
+Uttarahalli,1075.0,2.0,1.0,40.0,2
+Bannerghatta Road,1880.0,3.0,2.0,96.5,3
+Bannerghatta Road,1655.0,3.0,3.0,95.0,3
+Electronic City,1125.0,2.0,1.0,32.49,2
+Sarjapur  Road,1186.0,2.0,2.0,40.0,3
+Uttarahalli,1050.0,2.0,1.0,42.0,2
+Kanakpura Road,1591.0,3.0,1.0,122.0,3
+Hennur Road,1015.0,2.0,2.0,50.0,2
+Uttarahalli,1200.0,4.0,3.0,179.0,4
+Yelahanka,1180.0,2.0,3.0,42.0,2
+Electronic City,1500.0,2.0,1.0,77.5,3
+Uttarahalli,1385.0,2.0,2.0,48.48,3
+Kanakpura Road,1100.0,3.0,2.0,53.0,3
+Kanakpura Road,1225.0,2.0,2.0,60.0,2
+Uttarahalli,1330.0,2.0,1.0,56.0,3
+Uttarahalli,1475.0,2.0,3.0,59.0,3
+Hebbal,1645.0,3.0,2.0,121.0,3
+Sarjapur  Road,1205.0,2.0,2.0,37.0,2
+Raja Rajeshwari Nagar,1419.0,2.0,2.0,48.1,2
+Kanakpura Road,1100.0,3.0,1.0,58.0,3
+Kanakpura Road,1603.0,3.0,3.0,113.0,3
+Electronic City,1165.0,2.0,1.0,33.65,2
+Whitefield,1451.0,2.0,2.0,46.4,3
+Electronic City Phase II,993.0,2.0,2.0,50.0,3
+Electronic City,1065.0,2.0,1.0,30.76,2
+Uttarahalli,1286.0,2.0,2.0,63.0,2
+Kanakpura Road,1665.0,3.0,2.0,78.0,3
+Electronic City,1350.0,3.0,2.0,66.0,3
+Electronic City,1128.0,2.0,1.0,65.7,2
+Sarjapur  Road,1323.0,2.0,2.0,74.0,2
+Raja Rajeshwari Nagar,1140.0,2.0,2.0,39.0,2
+Whitefield,1155.0,2.0,3.0,59.95,2
+Hennur Road,1195.0,2.0,2.0,73.0,2
+Whitefield,1655.0,3.0,2.0,113.0,3
+Yelahanka,1195.0,2.0,0.0,53.105,2
+Yelahanka,1180.0,3.0,1.0,55.0,3
+Hennur Road,1891.0,3.0,1.0,109.0,3
+Whitefield,1216.0,2.0,1.0,67.0,2
+Bannerghatta Road,1181.0,2.0,0.0,55.0,2
+Bannerghatta Road,1532.5,3.0,0.0,79.465,3
+Kanakpura Road,1700.0,3.0,3.0,88.0,3
+Sarjapur  Road,1984.0,4.0,1.0,145.0,3
+Hebbal,1100.0,2.0,1.0,54.0,2
+Uttarahalli,1175.0,2.0,1.0,47.0,2
+Haralur Road,1243.0,2.0,1.0,46.0,2
+Haralur Road,1194.0,2.0,2.0,47.0,2
+Raja Rajeshwari Nagar,1419.0,2.0,2.0,48.1,2
+Uttarahalli,1540.0,2.0,0.0,40.0,3
+Bannerghatta Road,1000.0,2.0,1.0,50.0,2
+Hennur Road,1232.0,2.0,1.0,87.0,2
+Whitefield,1200.0,2.0,1.0,45.84,2
+Uttarahalli,1123.0,2.0,1.0,48.0,2
+Sarjapur  Road,1565.0,3.0,2.0,78.0,3
+Whitefield,1216.0,2.0,1.0,75.0,2
+Thanisandra,1140.0,2.0,1.0,39.0,2
+Sarjapur  Road,1181.0,2.0,1.0,65.0,3
+Yelahanka,1350.0,2.0,1.0,55.55,2
+Whitefield,750.0,2.0,1.0,52.7,2
+Yelahanka,1075.0,2.0,1.0,42.0,3
+Bannerghatta Road,1427.0,2.0,2.0,48.51,3
+7th Phase JP Nagar,1370.0,2.0,1.0,54.79,3
+Electronic City,1025.0,2.0,1.0,29.6,2
+Raja Rajeshwari Nagar,1400.0,2.0,2.0,86.0,3
+Electronic City,550.0,2.0,1.0,16.0,2
+Sarjapur  Road,1220.0,3.0,3.0,56.0,3
+Sarjapur  Road,1939.0,3.0,0.0,98.0,3
+Yelahanka,870.0,2.0,1.0,27.0,2
+Sarjapur  Road,615.0,1.0,0.0,17.835,1
+Electronic City,1500.0,3.0,1.0,73.0,3
+Sarjapur  Road,1300.0,2.0,2.0,70.0,3
+Yelahanka,1327.0,2.0,2.0,98.0,2
+7th Phase JP Nagar,1850.0,3.0,1.0,150.0,3
+Hennur Road,1232.0,2.0,2.0,89.0,2
+Electronic City Phase II,1310.0,2.0,1.0,32.75,3
+Haralur Road,1194.0,2.0,2.0,46.0,2
+Sarjapur  Road,1197.0,2.0,1.0,56.86,2
+Yelahanka,1550.0,3.0,1.0,120.0,3
+Uttarahalli,1200.0,4.0,3.0,155.0,4
+Hebbal,1200.0,4.0,2.0,225.0,4
+7th Phase JP Nagar,1680.0,3.0,2.0,125.0,3
+Electronic City,635.0,1.0,0.0,28.0,1
+Yelahanka,1200.0,2.0,2.0,60.0,2
+Uttarahalli,1250.0,2.0,1.0,55.0,3
+Yelahanka,1185.0,2.0,2.0,45.0,2
+Bannerghatta Road,1200.0,2.0,2.0,75.0,2
+Whitefield,1200.0,3.0,1.0,68.4,3
+Bannerghatta Road,960.0,2.0,3.0,58.0,2
+Bannerghatta Road,1484.0,3.0,2.0,52.5,3
+Haralur Road,1464.0,3.0,2.0,56.0,3
+Sarjapur  Road,1115.0,2.0,2.0,50.0,2
+Marathahalli,1950.0,3.0,2.0,115.0,3
+Whitefield,1745.0,3.0,3.0,100.0,3
+Whitefield,1240.0,2.0,2.0,41.0,2
+Thanisandra,663.0,1.0,0.0,32.82,1
+Kanakpura Road,525.0,1.0,1.0,30.0,1
+Raja Rajeshwari Nagar,1529.0,3.0,3.0,51.77,3
+Marathahalli,1350.0,2.0,1.0,90.0,2
+Yelahanka,1026.0,2.0,1.0,41.0,2
+Whitefield,1634.0,3.0,2.0,68.0,3
+Whitefield,1275.0,2.0,3.0,65.0,3
+Sarjapur  Road,2206.0,4.0,1.0,180.0,3
+Raja Rajeshwari Nagar,1250.0,2.0,2.0,68.0,2
+Raja Rajeshwari Nagar,1430.0,2.0,1.0,50.0,3
+Whitefield,1216.0,2.0,1.0,80.0,2
+Electronic City,1070.0,2.0,1.0,48.0,2
+Electronic City Phase II,1065.0,2.0,1.0,30.75,2
+Electronic City Phase II,1800.0,3.0,3.0,92.0,3
+7th Phase JP Nagar,1420.0,2.0,2.0,96.0,3
+Sarjapur  Road,1826.0,3.0,2.0,130.0,3
+Kanakpura Road,1900.0,3.0,1.0,99.0,3
+Sarjapur  Road,1489.0,2.0,3.0,82.0,3
+7th Phase JP Nagar,1040.0,2.0,1.0,41.59,2
+Kanakpura Road,1703.0,3.0,2.0,130.0,3
+Electronic City Phase II,1400.0,2.0,2.0,40.43,3
+Uttarahalli,980.0,2.0,1.0,45.0,2
+Hennur Road,1445.0,2.0,2.0,86.69,3
+Yelahanka,1355.0,2.0,2.0,51.5,3
+Uttarahalli,1345.0,2.0,1.0,57.0,3
+Kanakpura Road,1665.0,3.0,2.0,86.91,3
+Kanakpura Road,900.0,2.0,1.0,42.0,2
+Electronic City,1221.0,2.0,2.0,68.0,2
+Raja Rajeshwari Nagar,1306.0,2.0,1.0,55.91,2
+Sarjapur  Road,2100.0,3.0,1.0,135.0,3
+Electronic City,975.0,2.0,2.0,37.5,2
+Electronic City Phase II,1320.0,2.0,1.0,38.12,3
+Whitefield,1300.0,2.0,2.0,78.0,2
+Whitefield,1800.0,2.0,2.0,70.0,3
+Raja Rajeshwari Nagar,1170.0,2.0,3.0,50.0,2
+Raja Rajeshwari Nagar,1580.0,3.0,3.0,53.56,3
+Whitefield,1808.0,4.0,0.0,80.0,3
+Hennur Road,1065.0,2.0,1.0,42.6,2
+Whitefield,1770.0,4.0,1.0,68.0,3
+Electronic City,1320.0,2.0,1.0,38.13,3
+Bannerghatta Road,1115.0,2.0,2.0,78.0,2
+Whitefield,1340.0,2.0,1.0,77.0,2
+Hennur Road,1482.0,2.0,2.0,83.73,3
+Uttarahalli,1345.0,2.0,1.0,47.0,3
+7th Phase JP Nagar,980.0,2.0,1.0,86.0,2
+Whitefield,1390.0,2.0,1.0,72.0,2
+Bannerghatta Road,1200.0,2.0,2.0,65.0,2
+Thanisandra,1430.0,2.0,2.0,51.48,3
+Hebbal,1900.0,3.0,2.0,119.0,3
+Yelahanka,1040.0,2.0,1.0,48.86,2
+Whitefield,1109.0,2.0,1.0,41.49,2
+Electronic City,1521.0,2.0,2.0,57.5,3
+Whitefield,1030.0,2.0,2.0,44.0,2
+Thanisandra,1595.0,3.0,1.0,110.0,3
+Sarjapur  Road,1150.0,2.0,2.0,77.0,2
+Thanisandra,1702.0,3.0,2.0,130.0,3
+Yelahanka,1355.0,2.0,3.0,75.0,3
+Kanakpura Road,1100.0,2.0,1.0,58.0,3
+7th Phase JP Nagar,1463.0,2.0,1.0,61.45,3
+Thanisandra,1225.0,2.0,1.0,37.0,2
+Raja Rajeshwari Nagar,1133.0,2.0,2.0,40.0,2
+Electronic City,770.0,1.0,1.0,40.0,2
+Kanakpura Road,1339.0,2.0,2.0,85.0,2
+Kanakpura Road,1080.0,2.0,1.0,37.8,2
+Yelahanka,915.0,2.0,2.0,48.0,2
+Raja Rajeshwari Nagar,1090.0,2.0,2.0,43.59,2
+Sarjapur  Road,1320.0,2.0,1.0,100.0,2
+Electronic City Phase II,1329.0,2.0,2.0,41.0,3
+Yelahanka,1350.0,2.0,2.0,54.0,2
+Uttarahalli,1265.0,2.0,2.0,65.0,3
+Kanakpura Road,1339.0,2.0,2.0,63.0,2
+Sarjapur  Road,1787.0,3.0,2.0,125.0,3
+7th Phase JP Nagar,1100.0,3.0,1.0,60.0,2
+Uttarahalli,1685.0,3.0,2.0,85.0,3
+7th Phase JP Nagar,1680.0,3.0,2.0,120.0,3
+Marathahalli,1785.0,3.0,2.0,94.0,3
+Kanakpura Road,525.0,1.0,1.0,26.01,1
+Kanakpura Road,1843.0,3.0,2.0,85.0,3
+Whitefield,1340.0,2.0,1.0,101.0,2
+Electronic City,1360.0,2.0,1.0,70.0,3
+Sarjapur  Road,1157.0,2.0,1.0,72.0,3
+Kanakpura Road,1800.0,3.0,2.0,90.0,3
+Electronic City,1128.0,2.0,1.0,67.0,2
+Whitefield,1160.0,2.0,2.0,39.0,2
+Thanisandra,1573.0,3.0,2.0,95.0,3
+Electronic City,1225.0,3.0,0.0,45.03,3
+Hebbal,1269.0,2.0,1.0,73.0,3
+Whitefield,2155.0,3.0,3.0,125.0,4
+Electronic City,1090.0,2.0,2.0,35.03,2
+Raja Rajeshwari Nagar,1303.0,2.0,2.0,55.79,2
+Sarjapur  Road,1685.0,3.0,1.0,135.0,3
+Whitefield,1740.0,3.0,2.0,95.0,3
+Kanakpura Road,1230.0,2.0,1.0,85.0,2
+Kanakpura Road,381.0,1.0,1.0,28.0,1
+Hennur Road,2000.0,4.0,0.0,90.0,4
+Uttarahalli,1125.0,2.0,1.0,48.0,2
+Raja Rajeshwari Nagar,945.0,2.0,1.0,45.0,2
+Uttarahalli,1330.0,2.0,2.0,39.9,3
+Kanakpura Road,700.0,2.0,1.0,36.0,2
+Kanakpura Road,1470.0,2.0,2.0,61.74,2
+Whitefield,1655.0,3.0,3.0,120.0,3
+Uttarahalli,1135.0,2.0,3.0,39.73,3
+Electronic City Phase II,1252.0,2.0,3.0,65.0,3
+Haralur Road,1520.0,2.0,2.0,85.0,3
+Electronic City,890.0,2.0,1.0,40.0,2
+Sarjapur  Road,1035.0,2.0,1.0,47.0,2
+Sarjapur  Road,1800.0,3.0,2.0,128.0,3
+Whitefield,2140.0,3.0,2.0,139.0,3
+Hennur Road,1891.0,3.0,1.0,139.0,3
+Haralur Road,1455.0,2.0,1.0,145.0,2
+Marathahalli,2181.0,3.0,2.0,152.0,4
+Whitefield,1040.0,2.0,1.0,48.5,2
+Yelahanka,1260.0,2.0,2.0,59.2,2
+Marathahalli,1230.0,2.0,2.0,80.0,2
+Raja Rajeshwari Nagar,1160.0,2.0,1.0,70.0,2
+Kanakpura Road,1252.0,2.0,1.0,56.32,2
+Bannerghatta Road,1115.0,2.0,1.0,61.0,2
+Whitefield,1338.0,2.0,1.0,103.0,2
+Whitefield,982.0,2.0,1.0,37.0,2
+Electronic City,550.0,1.0,1.0,16.0,2
+Hebbal,1040.0,2.0,2.0,46.0,2
+Raja Rajeshwari Nagar,1531.0,3.0,3.0,51.77,3
+Yelahanka,1616.0,3.0,1.0,65.0,3
+Thanisandra,1801.0,3.0,1.0,115.0,3
+Electronic City,1020.0,2.0,1.0,29.46,2
+Whitefield,1216.0,2.0,1.0,69.06,2
+Uttarahalli,1250.0,2.0,3.0,50.0,3
+7th Phase JP Nagar,1460.0,2.0,2.0,100.0,3
+Raja Rajeshwari Nagar,1693.0,3.0,1.0,71.38,3
+Electronic City,1025.0,2.0,1.0,54.0,2
+Uttarahalli,1160.0,2.0,2.0,40.6,2
+7th Phase JP Nagar,2225.0,3.0,1.0,160.0,3
+Whitefield,1910.0,3.0,2.0,161.0,3
+Whitefield,1216.0,2.0,1.0,66.88,2
+Thanisandra,1380.0,1.0,1.0,62.1,1
+Bannerghatta Road,1170.0,2.0,1.0,66.0,3
+Raja Rajeshwari Nagar,1196.0,2.0,2.0,40.44,2
+Hennur Road,1480.0,2.0,2.0,65.0,2
+Sarjapur  Road,1272.5,2.0,0.0,40.72,3
+Whitefield,905.0,1.0,1.0,60.0,1
+Uttarahalli,1050.0,2.0,1.0,42.0,2
+7th Phase JP Nagar,1100.0,2.0,1.0,44.0,2
+Kanakpura Road,525.0,1.0,1.0,26.0,1
+Sarjapur  Road,1750.0,3.0,2.0,215.0,4
+Electronic City Phase II,1400.0,2.0,2.0,40.44,3
+Marathahalli,1735.0,3.0,2.0,72.0,3
+Electronic City,589.0,1.0,1.0,29.0,1
+Raja Rajeshwari Nagar,1295.0,2.0,2.0,55.47,2
+Electronic City Phase II,1400.0,2.0,2.0,41.58,3
+Sarjapur  Road,835.0,1.0,1.0,46.95,1
+Bannerghatta Road,1200.0,2.0,2.0,78.0,2
+Hebbal,1700.0,3.0,2.0,124.0,3
+Hebbal,1255.0,2.0,1.0,77.68,3
+Hennur Road,1232.0,2.0,1.0,88.0,2
+7th Phase JP Nagar,1000.0,1.0,1.0,60.0,1
+Thanisandra,1188.0,2.0,1.0,36.0,2
+Bannerghatta Road,1050.0,2.0,1.0,65.0,2
+Haralur Road,1056.0,2.0,1.0,60.0,2
+Hebbal,1420.0,2.0,2.0,107.0,2
+Thanisandra,1220.0,2.0,1.0,44.6,2
+Kanakpura Road,1430.0,2.0,2.0,78.0,2
+Electronic City Phase II,1310.0,2.0,1.0,37.83,3
+Electronic City,1220.0,2.0,2.0,35.24,3
+Kanakpura Road,1665.0,3.0,2.0,74.9,3
+Sarjapur  Road,1019.0,2.0,1.0,62.0,2
+Electronic City Phase II,2187.5,4.0,0.0,105.0,4
+Whitefield,1173.0,2.0,1.0,78.2,2
+Electronic City,940.0,2.0,1.0,54.0,2
+Sarjapur  Road,1194.0,2.0,1.0,57.0,2
+Sarjapur  Road,1586.0,3.0,3.0,70.0,3
+Uttarahalli,1330.0,2.0,1.0,57.0,3
+Electronic City Phase II,1320.0,2.0,1.0,38.13,3
+7th Phase JP Nagar,1500.0,3.0,1.0,170.0,3
+Raja Rajeshwari Nagar,1400.0,2.0,2.0,45.0,2
+Kanakpura Road,1550.0,3.0,3.0,67.0,3
+Electronic City,1033.0,2.0,2.0,28.41,3
+Whitefield,1272.0,2.0,1.0,95.05,2
+Bannerghatta Road,1450.0,2.0,2.0,87.0,3
+Whitefield,1216.0,2.0,1.0,75.0,2
+Marathahalli,1146.0,2.0,1.0,69.0,2
+Thanisandra,1492.0,3.0,1.0,88.0,3
+Uttarahalli,1150.0,2.0,2.0,70.0,2
+Haralur Road,1243.0,2.0,2.0,46.0,2
+Thanisandra,1795.0,3.0,2.0,150.0,3
+Uttarahalli,1345.0,2.0,1.0,57.0,3
+Sarjapur  Road,1129.0,2.0,1.0,69.0,2
+Thanisandra,1183.0,2.0,1.0,77.25,2
+Bannerghatta Road,1179.0,2.0,1.0,66.02,2
+Haralur Road,1560.0,3.0,1.0,90.0,3
+Whitefield,1280.0,2.0,2.0,52.0,2
+Haralur Road,1810.0,3.0,2.0,126.0,3
+Thanisandra,1148.0,2.0,1.0,43.5,2
+Kanakpura Road,1051.0,2.0,2.0,56.74,2
+Marathahalli,2122.0,3.0,2.0,125.0,3
+Raja Rajeshwari Nagar,1260.0,2.0,1.0,67.39,2
+Electronic City,1500.0,2.0,1.0,64.5,3
+Bannerghatta Road,595.0,1.0,1.0,31.83,1
+Whitefield,1160.0,2.0,1.0,67.0,2
+Yelahanka,1517.0,3.0,2.0,76.3,3
+Sarjapur  Road,1200.0,2.0,2.0,75.0,2
+Haralur Road,1027.0,2.0,2.0,44.0,2
+7th Phase JP Nagar,1215.0,2.0,2.0,90.0,2
+Whitefield,1355.0,2.0,3.0,73.0,2
+Uttarahalli,1737.0,2.0,3.0,95.0,3
+Marathahalli,1019.0,2.0,2.0,49.86,2
+Electronic City,1310.0,2.0,1.0,37.83,3
+Whitefield,1130.0,2.0,1.0,36.0,2
+Marathahalli,1693.0,3.0,2.0,125.0,3
+Marathahalli,1200.0,2.0,2.0,52.0,2
+Electronic City,870.0,2.0,2.0,24.0,2
+Electronic City Phase II,1070.0,2.0,2.0,45.0,2
+Sarjapur  Road,1691.0,3.0,2.0,119.0,3
+Marathahalli,1152.0,2.0,1.0,90.0,2
+Marathahalli,1102.0,2.0,2.0,53.67,2
+Bannerghatta Road,1445.0,3.0,2.0,95.0,3
+Whitefield,1216.0,2.0,1.0,75.0,2
+Sarjapur  Road,1044.0,2.0,1.0,34.77,2
+Electronic City,1070.0,2.0,1.0,55.0,2
+Uttarahalli,1330.0,2.0,1.0,57.0,3
+Kanakpura Road,1300.0,3.0,2.0,69.0,3
+Haralur Road,1520.0,2.0,2.0,96.0,3
+Uttarahalli,1250.0,2.0,1.0,50.0,3
+Electronic City,1128.0,2.0,1.0,65.49,2
+Uttarahalli,993.0,2.0,1.0,39.71,2
+Uttarahalli,1150.0,2.0,1.0,49.0,2
+Raja Rajeshwari Nagar,1151.0,2.0,2.0,39.0,2
+Uttarahalli,1390.0,2.0,2.0,60.47,3
+Sarjapur  Road,1308.0,2.0,1.0,58.86,2
+Kanakpura Road,1628.0,2.0,2.0,68.0,2
+Whitefield,1125.0,2.0,2.0,45.0,2
+Sarjapur  Road,1700.0,3.0,3.0,135.0,3
+Whitefield,1190.0,2.0,2.0,60.0,2
+Uttarahalli,1090.0,2.0,2.0,45.0,2
+Whitefield,1564.0,3.0,1.0,103.0,3
+Yelahanka,1650.0,3.0,3.0,105.0,3
+Haralur Road,1300.0,2.0,2.0,73.0,2
+Raja Rajeshwari Nagar,1145.0,2.0,2.0,45.79,2
+Marathahalli,1208.0,2.0,2.0,70.0,2
+Electronic City Phase II,1286.0,2.0,2.0,69.0,2
+Whitefield,1600.0,3.0,2.0,82.0,3
+Kanakpura Road,1691.2,3.0,1.0,115.0,3
+Hebbal,1088.0,2.0,2.0,62.0,2
+Marathahalli,1900.0,3.0,3.0,123.0,3
+Whitefield,1870.0,3.0,2.0,138.0,3
+Raja Rajeshwari Nagar,1693.0,3.0,3.0,57.39,3
+Hennur Road,1585.0,2.0,3.0,80.0,3
+Electronic City,1500.0,2.0,1.0,75.0,3
+7th Phase JP Nagar,1385.0,2.0,2.0,58.17,3
+Uttarahalli,1310.0,2.0,1.0,85.0,3
+Marathahalli,1350.0,3.0,1.0,72.0,3
+Yelahanka,1304.0,2.0,1.0,79.0,2
+Whitefield,1216.0,2.0,1.0,72.5,2
+Marathahalli,1700.0,3.0,2.0,126.0,3
+Yelahanka,1800.0,4.0,2.0,180.0,4
+Bannerghatta Road,1218.0,2.0,1.0,73.0,2
+Thanisandra,1491.0,3.0,1.0,88.0,3
+Sarjapur  Road,1711.0,3.0,1.0,110.0,3
+Sarjapur  Road,1173.0,2.0,2.0,45.75,3
+Haralur Road,1225.0,2.0,1.0,67.38,2
+Uttarahalli,1155.0,2.0,2.0,40.42,2
+Kanakpura Road,1495.0,2.0,2.0,90.0,2
+Sarjapur  Road,1819.0,3.0,2.0,100.0,3
+Sarjapur  Road,1691.0,3.0,2.0,93.01,3
+Raja Rajeshwari Nagar,1140.0,2.0,2.0,38.55,2
+7th Phase JP Nagar,1130.0,2.0,2.0,85.0,2
+Bannerghatta Road,700.0,1.0,1.0,31.2,1
+Bannerghatta Road,1640.0,2.0,1.0,120.0,3
+Sarjapur  Road,1035.0,2.0,2.0,49.0,2
+Marathahalli,1170.0,2.0,2.0,85.0,2
+Kanakpura Road,900.0,2.0,1.0,46.0,2
+Electronic City Phase II,769.0,2.0,1.0,40.0,2
+Bannerghatta Road,905.0,2.0,1.0,65.0,2
+Raja Rajeshwari Nagar,1140.0,2.0,1.0,49.39,2
+Haralur Road,1243.0,2.0,2.0,46.0,2
+Electronic City,1265.0,2.0,0.0,56.93,2
+Sarjapur  Road,1371.0,2.0,1.0,86.0,2
+Thanisandra,1965.0,4.0,2.0,125.0,3
+Electronic City,770.0,1.0,1.0,38.0,2
+Yelahanka,1560.0,2.0,2.0,98.0,3
+Whitefield,1457.0,2.0,2.0,105.0,3
+Yelahanka,1345.0,2.0,1.0,57.0,3
+Hennur Road,1310.0,2.0,1.0,66.0,2
+Kanakpura Road,1339.0,2.0,2.0,71.5,2
+Whitefield,1320.0,2.0,1.0,95.0,2
+Thanisandra,662.0,1.0,1.0,29.0,1
+Electronic City Phase II,1192.0,2.0,3.0,47.0,3
+Electronic City,1070.0,2.0,1.0,52.0,2
+Bannerghatta Road,1305.0,2.0,2.0,60.0,3
+Sarjapur  Road,1826.0,3.0,2.0,125.0,3
+Kanakpura Road,700.0,2.0,1.0,35.0,2
+Kanakpura Road,1339.0,2.0,3.0,75.0,2
+Marathahalli,1365.0,2.0,2.0,73.0,2
+Hennur Road,1232.0,2.0,2.0,89.0,2
+Kanakpura Road,1100.0,3.0,2.0,53.0,3
+Whitefield,840.0,1.0,1.0,57.0,1
+Marathahalli,1350.0,2.0,1.0,99.0,2
+Thanisandra,1240.0,2.0,1.0,62.0,3
+Haralur Road,1056.0,2.0,1.0,61.0,2
+Kanakpura Road,1450.0,3.0,3.0,51.0,3
+Whitefield,810.0,1.0,0.0,21.0,1
+7th Phase JP Nagar,1420.0,3.0,2.0,90.0,3
+Bannerghatta Road,1237.5,2.0,0.0,49.49,2
+Whitefield,1500.0,3.0,1.0,71.8,3
+Hebbal,812.0,2.0,2.0,55.0,2
+Thanisandra,2172.0,3.0,2.0,76.02,3
+Raja Rajeshwari Nagar,1196.0,2.0,2.0,40.54,2
+Hennur Road,1450.0,3.0,2.0,79.0,3
+Thanisandra,1825.0,3.0,2.0,100.0,3
+Hennur Road,1936.0,3.0,1.0,118.0,3
+Electronic City,1128.0,2.0,1.0,65.0,2
+Hennur Road,1936.0,3.0,1.0,131.0,3
+Yelahanka,1362.0,2.0,2.0,66.0,2
+Haralur Road,575.0,1.0,1.0,38.0,1
+Haralur Road,1243.0,2.0,2.0,46.0,2
+Sarjapur  Road,1900.0,4.0,1.0,180.0,3
+Uttarahalli,1135.0,2.0,2.0,39.73,3
+Whitefield,1200.0,2.0,1.0,46.13,2
+Whitefield,1496.0,2.0,1.0,71.81,3
+Whitefield,1850.0,3.0,2.0,150.0,3
+Haralur Road,1194.0,2.0,2.0,46.0,2
+Electronic City,770.0,1.0,1.0,36.0,2
+Yelahanka,1036.0,2.0,2.0,39.37,2
+Marathahalli,1125.0,2.0,2.0,56.8,2
+Electronic City,630.0,1.0,1.0,47.0,1
+Sarjapur  Road,1879.0,3.0,2.0,155.0,3
+Electronic City Phase II,1000.0,2.0,1.0,28.88,2
+Electronic City,1070.0,2.0,1.0,55.0,2
+Whitefield,1141.0,2.0,1.0,62.0,2
+Electronic City,1060.0,2.0,1.0,60.0,2
+Kanakpura Road,1250.0,3.0,3.0,62.6,3
+Bannerghatta Road,1486.0,3.0,1.0,83.22,3
+Kanakpura Road,950.0,2.0,1.0,40.0,2
+Whitefield,1165.0,2.0,1.0,40.5,2
+Yelahanka,1175.0,2.0,1.0,67.77,2
+Electronic City,995.0,2.0,1.0,48.0,2
+Whitefield,1085.0,2.0,1.0,57.0,2
+Haralur Road,1735.0,3.0,2.0,97.0,3
+Marathahalli,1583.0,3.0,3.0,115.0,3
+Hebbal,1860.0,3.0,2.0,95.0,3
+Sarjapur  Road,1215.0,2.0,2.0,110.0,2
+7th Phase JP Nagar,1680.0,3.0,2.0,120.0,3
+Thanisandra,2100.0,4.0,1.0,95.0,4
+Kanakpura Road,1570.0,3.0,3.0,64.5,3
+Sarjapur  Road,1026.0,2.0,1.0,60.55,2
+Sarjapur  Road,1050.0,2.0,1.0,62.0,2
+Whitefield,877.0,1.0,1.0,59.0,1
+Bannerghatta Road,1240.0,2.0,1.0,71.0,2
+Electronic City Phase II,1220.0,2.0,1.0,35.23,3
+Bannerghatta Road,1625.0,2.0,3.0,75.0,3
+Whitefield,524.0,1.0,1.0,29.0,1
